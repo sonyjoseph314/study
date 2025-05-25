@@ -1,0 +1,218 @@
+headline,priority,description,linked issues,linked requirements,Step id,Step,expected result
+UFS_UAT_CR6_ITSM_942417_SC_001_TC_001_Verification of Tabs,,Verify that the user can be able to see the new tab of Docu Sign.,,Docu Sign Tab,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+UFS_UAT_CR6_ITSM_942417_SC_001_TC_002_Verification of Tabs,,"Verify the below options are available when clicking on the docu sign tab.
+1.Church Organisations
+2.Ministers and Staff
+3.Personal,Company,Trust and others
+4.Ethical Managed fund clients",,Docu Sign Tab,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on the docu sign tab and check the drop down options are available or not.,All the options should be available under the docu sign tab.
+UFS_UAT_CR6_ITSM_942417_SC_002_TC_003_Verification of dropdown list.,,"Verify the below options are available when clicking on the church organisations tab.
+1.Additional Cardholder Request
+2.Application for Uniting Online
+3.Card Limit Adjustment Request
+4.Change of Daily Limit
+5.Change of Details
+6.Change to Authorised Signatories
+7.Direct Debit Request
+8.Investment Application
+9.Loan Application
+10.Periodic Payment Application
+11.Schofield Loan Application
+12.Sweep Facility Application
+",,Church organisations tab,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on church organisations tab and verify all the options are available under the dropdown list.,All the options should be available under the church organisations tab.
+UFS_UAT_CR6_ITSM_942417_SC_002_TC_004_Verification of dropdown list.,,"Verify the below options are available when clicking on the Ministers and Staff tab.
+1.Application for Uniting Online
+2.Change of Daily Limit
+3.Direct Debit Request
+4.Change of Details
+5.Financial Hardship
+6.Investment Application
+7.Loan Application
+8.Periodic Payment Application
+
+",,Ministers and Staff tab,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on ministers and staff tab and verify all the options are available under the dropdown list.,All the options should be available under the ministers and staff tab.
+UFS_UAT_CR6_ITSM_942417_SC_002_TC_005_Verification of dropdown list.,,"Verify the below options are available when clicking on the Personal,Company,Trust and others tab.
+1.Application for Uniting Online
+2.Authority to Operate:Third Parties
+3.Change of Daily Limit
+4.Change of Details
+5.Change to Authorised Signatories
+6.Direct Debit Request 
+7.Financial Hardship",,"Personal,Company,
+Trust and others tab",1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,"Click on Personal,Company,
+Trust and others tab and verify all the options are available under the dropdown list.","All the options should be available under the Personal,Company,Trust and others tab."
+UFS_UAT_CR6_ITSM_942417_SC_002_TC_006_Verification of dropdown list.,,"Verify the below options are available when clicking on the Ethical Managed Fund Clients Tab.
+1.Additional Investment Application Form
+2.Changeof Details
+3.Redemption Form
+4.Regular Redemption Form",,Ethical Managed Fund Clients Tab,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on Ethical Managed Fund Clients Tab and verify all the options are available under the dropdown list.,All the options should be available under the Ethical Managed Fund Clients Tab.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_007_Verification of hyperlinks accessible ,,Verify the user can be able to access the form when clicking on the Additional Cardholder Request tab under church organisation.,,Additional Cardholder Request Tab,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on Church organisation tab,Drop down list should be loaded successfully
+,,,,,4,Click on Additional Cardholder Request Tab,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_008_Verification of hyperlinks accessible ,,Verify the user can be able to access the form when clicking on the Application for Uniting Online tab under church organisation.,, Application for Uniting Online Tab,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on Church organisation tab,Drop down list should be loaded successfully
+,,,,,4,Click on Application for Uniting Online Tab,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_009_Verification of hyperlinks accessible ,,Verify the user can be able to access the form when clicking on the Card Limit Adjustment Request tab under church organisation.,,Card Limit Adjustment Request Tab,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on Church organisation tab,Drop down list should be loaded successfully
+,,,,,4,Click on Card Limit Adjustment Request Tab,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_010_Verification of hyperlinks accessible ,,Verify the user can be able to access the form when clicking on the Change of Daily Limit  tab under church organisation.,,Change of Daily Limit Tab,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on Church organisation tab,Drop down list should be loaded successfully
+,,,,,4,Click on Change of Daily Limit  Tab,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_011_Verification of hyperlinks accessible ,,Verify the user can be able to access the form when clicking on the Change of Details  tab under church organisation.,,Change of Details Tab,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on Church organisation tab,Drop down list should be loaded successfully
+,,,,,4,Click on Change of Details  Tab,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_012_Verification of hyperlinks accessible ,,Verify the user can be able to access the form when clicking on the Change to Authorised Signatories  tab under church organisation.,,Change to Authorised Signatories Tab,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on Church organisation tab,Drop down list should be loaded successfully
+,,,,,4,Click on Change to Authorised Signatories  Tab,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_013_Verification of hyperlinks accessible ,,Verify the user can be able to access the form when clicking on the Direct Debit Request  tab under church organisation.,,Direct Debit Request Tab,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on Church organisation tab,Drop down list should be loaded successfully
+,,,,,4,Click on Direct Debit Request  Tab,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_014_Verification of hyperlinks accessible ,,Verify the user can be able to access the form when clicking on the  Investment Application  tab under church organisation.,,Investment Application Tab,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on Church organisation tab,Drop down list should be loaded successfully
+,,,,,4,Click on  Investment Application  Tab,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_015_Verification of hyperlinks accessible ,,Verify the user can be able to access the form when clicking on the  Loan Application  tab under church organisation.,,Loan Application Tab,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on Church organisation tab,Drop down list should be loaded successfully
+,,,,,4,Click on  Loan Application  Tab,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_016_Verification of hyperlinks accessible ,,Verify the user can be able to access the form when clicking on the  Periodic Payment Application   tab under church organisation.,,Periodic Payment Application Tab,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on Church organisation tab,Drop down list should be loaded successfully
+,,,,,4,Click on  Periodic Payment Application   Tab,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_017_Verification of hyperlinks accessible ,,Verify the user can be able to access the form when clicking on the  Schofield Loan Application tab under church organisation.,,Schofield Loan Application Tab,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on Church organisation tab,Drop down list should be loaded successfully
+,,,,,4,Click on  Schofield Loan Application   Tab,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_018_Verification of hyperlinks accessible ,,Verify the user can be able to access the form when clicking on the  Sweep Facility Application tab under church organisation.,,Sweep Facility Application Tab,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on Church organisation tab,Drop down list should be loaded successfully
+,,,,,4,Click on  Sweep Facility Application Tab,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_019_Verification of hyperlinks accessible ,,Verify the user can be able to access the form when clicking on the  Application for uniting online tab under Ministers and staff.,,Application for uniting online tab ,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on Ministers and Staff tab.,Drop down list should be loaded successfully
+,,,,,4,Click on  Application for uniting online tab,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_020_Verification of hyperlinks accessible ,,Verify the user can be able to access the form when clicking on the Change of daily limit tab under Ministers and staff.,,Change of daily limit tab ,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on Ministers and Staff tab.,Drop down list should be loaded successfully
+,,,,,4,Click on Change of daily limit tab.,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_021_Verification of hyperlinks accessible ,,Verify the user can be able to access the form when clicking on the Direct Debit Request tab under Ministers and staff.,,Direct Debit Request tab,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on Ministers and Staff tab.,Drop down list should be loaded successfully
+,,,,,4,Click on Direct Debit Request tab.,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_022_Verification of hyperlinks accessible ,,Verify the user can be able to access the form when clicking on the Change of Details tab under Ministers and staff.,,Change of Details tab,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on Ministers and Staff tab.,Drop down list should be loaded successfully
+,,,,,4,Click on Change of Details tab.,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_023_Verification of hyperlinks accessible ,,Verify the user can be able to access the form when clicking on the Financial Hardship tab under Ministers and staff.,,Financial Hardship tab ,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on Ministers and Staff tab.,Drop down list should be loaded successfully
+,,,,,4,Click on Financial Hardship tab.,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_024_Verification of hyperlinks accessible ,,Verify the user can be able to access the form when clicking on the Investment Application tab under Ministers and staff.,,Investment Application tab,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on Ministers and Staff tab.,Drop down list should be loaded successfully
+,,,,,4,Click on Investment Application tab.,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_025_Verification of hyperlinks accessible ,,Verify the user can be able to access the form when clicking on the Loan Application tab under Ministers and staff.,,Loan Application tab ,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on Ministers and Staff tab.,Drop down list should be loaded successfully
+,,,,,4,Click on Loan Application tab.,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_026_Verification of hyperlinks accessible ,,Verify the user can be able to access the form when clicking on the Periodic Payment Application tab under Ministers and staff.,, Periodic Payment Application tab ,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on Ministers and Staff tab.,Drop down list should be loaded successfully
+,,,,,4,Click on  Periodic Payment Application tab .,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_027_Verification of hyperlinks accessible ,,"Verify the user can be able to access the form when clicking on the Application for Uniting Online tab under Personl,Comapny,Trust and Others.",,Application for Uniting Online Tab ,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,"Click on Personl,Comapny,Trust and Others.",Drop down list should be loaded successfully
+,,,,,4,Click on  Application for Uniting Online tab.,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_028_Verification of hyperlinks accessible ,,"Verify the user can be able to access the form when clicking on the Authority to Operate: Third Parties tab under Personl,Comapny,Trust and Others.",,Authority to Operate: Third Parties Tab ,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,"Click on Personl,Comapny,Trust and Others.",Drop down list should be loaded successfully
+,,,,,4,Click on  Authority to Operate: Third Parties tab,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_029_Verification of hyperlinks accessible ,,"Verify the user can be able to access the form when clicking on the Change of Daily Limit tab under Personl,Comapny,Trust and Others.",,Change of Daily Limit Tab ,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,"Click on Personl,Comapny,Trust and Others.",Drop down list should be loaded successfully
+,,,,,4,Click on  Change of Daily Limit tab,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_030_Verification of hyperlinks accessible ,,"Verify the user can be able to access the form when clicking on the Change of Details tab under Personl,Comapny,Trust and Others.",,Change of Details Tab ,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,"Click on Personl,Comapny,Trust and Others.",Drop down list should be loaded successfully
+,,,,,4,Click on  Change of Details tab,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_031_Verification of hyperlinks accessible ,,"Verify the user can be able to access the form when clicking on the Change to Authorised Signatories tab under Personl,Comapny,Trust and Others.",,Change to Authorised Signatories Tab ,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,"Click on Personl,Comapny,Trust and Others.",Drop down list should be loaded successfully
+,,,,,4,Click on Change to Authorised Signatories tab,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_032_Verification of hyperlinks accessible ,,"Verify the user can be able to access the form when clicking on the Direct Debit Request tab under Personl,Comapny,Trust and Others.",,Direct Debit Request  Tab ,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,"Click on Personl,Comapny,Trust and Others.",Drop down list should be loaded successfully
+,,,,,4,Click on Direct Debit Request tab.,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_033_Verification of hyperlinks accessible ,,"Verify the user can be able to access the form when clicking on the Financial Hardship tab under Personl,Comapny,Trust and Others.",,Financial Hardship Tab ,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,"Click on Personl,Comapny,Trust and Others.",Drop down list should be loaded successfully
+,,,,,4,Click on Financial Hardship tab.,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_034_Verification of hyperlinks accessible ,,"Verify the user can be able to access the form when clicking on the Investment Application tab under Personl,Comapny,Trust and Others.",,Investment Application Tab ,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,"Click on Personl,Comapny,Trust and Others.",Drop down list should be loaded successfully
+,,,,,4,Click on Investment Application tab.,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_035_Verification of hyperlinks accessible ,,Verify the user can be able to access the form when clicking on the Additional Investment Application Form tab under Ethical Managed Fund Clients.,,Additional Investment Application Form Tab,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on Ethical Managed Fund Clients.,Drop down list should be loaded successfully
+,,,,,4,Click on Additional Investment Application Form tab.,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_036_Verification of hyperlinks accessible ,,Verify the user can be able to access the form when clicking on the Change of Details tab under Ethical Managed Fund Clients.,,Change of Details Tab,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on Ethical Managed Fund Clients.,Drop down list should be loaded successfully
+,,,,,4,Click on Change of Details tab.,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_037_Verification of hyperlinks accessible ,,Verify the user can be able to access the form when clicking on the Redemption Form tab under Ethical Managed Fund Clients.,,Redemption Form Tab,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on Ethical Managed Fund Clients.,Drop down list should be loaded successfully
+,,,,,4,Click on Redemption Form tab.,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
+UFS_UAT_CR6_ITSM_942417_SC_003_TC_038_Verification of hyperlinks accessible ,,Verify the user can be able to access the form when clicking on the Regular Redemption Form tab under Ethical Managed Fund Clients.,,Regular Redemption Form Tab,1,Load the IB Application.,User should be able to launch the IB application Successfully .
+,,,,,2,Check Docu Sign tab is available on the top of IB Application.,Docu Sign tab should be available in the IB Application.
+,,,,,3,Click on Ethical Managed Fund Clients.,Drop down list should be loaded successfully
+,,,,,4,Click on Regular Redemption Form tab.,Form loaded successfully on the next tab.
+,,,,,5,Verify the provided link and the links accessed from IB DocuSign drop-down are same or not,Both links should be the same.
